@@ -1,0 +1,2 @@
+This file contain the Python code that was written by Soroush Kavian, as practice project for learning Python.
+Wish me luck!
